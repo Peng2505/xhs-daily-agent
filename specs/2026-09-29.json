@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-29",
+  "title": "9月29日AI速览：5件事",
+  "hook": "Sonnet 5.5 / Agent 安全 / 82亿美元收购，90秒看完",
+  "handle": "",
+  "bullets": [
+    "Anthropic 9/28 发布 Claude Sonnet 5.5：编程基准 Terminal-Bench 4.0 从 10.3% 升至 70.6%，单价不变、输出快 30%+（Sonnet 5 的 90 天后继）",
+    "OpenAI 在 DevDay 前夜叫停 GPT-6.1 Astra 发布，理由是安全团队认为「未达范围与授权标准」（WSJ 首发，9/28）",
+    "英伟达 9/28 发布开源 Agent 安全平台：OpenShell 管权限 + Sentry 芯片级监控，称毫秒级隔离异常 Agent，100+ 机构入驻",
+    "AMD 9/28 宣布以 82 亿美元全股票收购李飞飞创办的 World Labs；李飞飞将出任 AMD 首席科学家兼执行副总裁",
+    "ElevenLabs 9/28 发布 Eleven v4 / v4 Turbo：支持 90 种语言，10 秒音频即可克隆音色，Turbo 版主打低延迟语音 Agent"
+  ],
+  "tags": ["AI日报", "大模型", "人工智能", "AI工具", "科技"],
+  "body_extra": "哪条最影响你？评论区聊聊 👇",
+  "sources": [
+    {"name": "Anthropic", "url": "https://www.anthropic.com/claude-sonnet-5-5"},
+    {"name": "CNBC", "url": "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html"},
+    {"name": "AP News", "url": "https://apnews.com/article/nvidia-ai-agent-artificial-intelligence-safety-3c4d7c1cfde82851c0577d1fa29b8621"},
+    {"name": "CNBC", "url": "https://www.cnbc.com/2026/09/28/amd-fei-fei-li-world-labs.html"},
+    {"name": "TechCrunch", "url": "https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/"}
+  ]
+}

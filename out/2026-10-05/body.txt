@@ -1,0 +1,17 @@
+标题（13字）: 10月5日AI速览：5件事
+
+特朗普宣布设「超级智能力量」工作组：国家情报总监克莱顿牵头，统筹政府与产业界（10/4）
+
+OpenAI 安全系统团队负责人鲁宾森辞职，发文称公司文化崩坏、「试错时代已结束」（10/4）
+
+决策模型成新赛道：TypeSafe 的 Jev 日均处理 1 万亿 token，约 25% 财富 500 强在用（10/5）
+
+DeepSeek Harness 更新：新增实验性 Claude Code Mods 兼容层，可桥接外部插件（10/3）
+
+MacBook Pro 外接 iPhone 17 Pro Max 跑 Qwen3.8-27B，16K 上下文预填充提速 44%（10/4）
+
+哪条最影响你？评论区聊聊 👇
+
+来源：ABC News https://abcnews.com/Politics/president-donald-trump-announces-creation-super-intelligence-force/story?id=136986122 / IT之家 https://www.ithome.com/1/009/581.htm / 凤凰科技 https://tech.ifeng.com/c/8wy5gcClV52 / 新浪科技 http://finance.sina.com.cn/tech/roll/2026-10-04/doc-initzerr5753322.shtml / IT之家 https://www.ithome.com/1/009/586.htm
+
+#AI日报# #大模型# #人工智能# #AI工具# #科技#

@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-08",
+  "title": "10月8日AI速览：5件事",
+  "hook": "模型 / 开源 / 端侧智能体，90秒看完",
+  "handle": "",
+  "bullets": [
+    "OpenAI 上线 GPT-6「智能界面」：回答自动配图表、表单和小工具；Plus/Pro/企业版首日、Free 次日（10/7）",
+    "Anthropic 发布 Claude Haiku 5.5：首个 1M 上下文的 Haiku，输入 $0.10/百万 token、比 4.5 便宜约九成（10/7）",
+    "Google 上新图像模型 Nano Banana 2.1（基于 Gemini 3.6 Flash）：编辑与文字渲染更强，价格约上一代一半（10/6）",
+    "Mistral 发布万亿参数开源旗舰 Mistral Large 4（Le Chonk）：原生多模态 MoE，预览版开放 API、权重月底放出（10/6）",
+    "微软 Windows 发布会押注端侧 AI：MXC 容器给智能体划权限沙箱，DeepSeek V4 可在 60GB 内存以上 PC 本地跑（10/7）"
+  ],
+  "tags": ["AI日报", "大模型", "人工智能", "AI工具", "科技"],
+  "body_extra": "哪条最值得关注？评论区聊聊 👇",
+  "sources": [
+    {"name": "OpenAI", "url": "https://openai.com/index/gpt-6-for-everyone/"},
+    {"name": "Anthropic", "url": "https://www.anthropic.com/claude-haiku-5-5"},
+    {"name": "Google DeepMind", "url": "https://deepmind.google/models/model-cards/nano-banana-2-1/"},
+    {"name": "Mistral", "url": "https://mistral.ai/news/mistral-large-4/"},
+    {"name": "Reuters", "url": "https://www.reuters.com/business/microsoft-nvidia-ceos-unveil-new-ai-laptop-san-francisco-event-2026-10-07/"}
+  ]
+}

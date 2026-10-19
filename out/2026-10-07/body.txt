@@ -1,0 +1,17 @@
+标题（13字）: 10月7日AI速览：5件事
+
+OpenAI 公开内部前沿模型做出的多项数学新成果：GitHub 放出 Lean 形式化证明，单个结果平均约耗 3 小时 ChatGPT Pro 级算力（10/6）
+
+OpenAI 首个 computer use 研究合作落地合同软件 Ironclad：GPT-6 Astra 在 11 项任务均分 55.0%，比 GPT-5.6 Sol 高 32%、耗时少 48%（10/6）
+
+彭博行业研究：DeepSeek V4.1 Flash 发布后，中国顶尖模型与美国基准分差距缩至 3%（5月约9%、年初15%），LiveBench 81.1 对 83.4（10/5）
+
+智谱 GLM-5.3 上架亚马逊云 Amazon Bedrock，符合条件的企业客户可直接调用、AWS 按调用量分成，当日港股股价涨超 5%（10/6）
+
+OpenAI 在 ChatGPT 图片生成场景测试图文展示广告，仅面向 Free/Go 用户，本月下旬美国首批试点，广告不干预回答内容（10/5）
+
+哪条最值得关注？评论区聊聊 👇
+
+来源：OpenAI https://openai.com/index/sharing-ai-progress-in-mathematics/ / OpenAI https://openai.com/index/advancing-computer-use-with-ironclad/ / 观察者网/新浪 http://k.sina.com.cn/article_1887344341_707e96d501901wb0g.html / 新浪财经 https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniuhcmn7140099.shtml / OpenAI https://openai.com/index/new-chatgpt-ads-format-and-measurement/
+
+#AI日报# #大模型# #人工智能# #AI工具# #科技#

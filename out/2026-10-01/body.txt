@@ -1,0 +1,17 @@
+标题（13字）: 10月1日AI速览：5件事
+
+谷歌发布 Gemini 4 Argon：单次输出上限 100 万 token，定价 $2/$10 每百万 token，首批只开放给认证网安防御方（9/30）
+
+Anthropic 发布 Claude Sonnet 5.5：比上代快 30%+、多数任务成本降 30%，Terminal-Bench 4.0 从 10.3% 提到 70.6%（9/28）
+
+OpenAI 放弃发布 GPT-6.1 Astra：内部测试未达安全标准，安全系统负责人称它「差了点」（9/28）
+
+DeepSeek 开源昇腾基础组件：TileLang 编译工具、DeepGEMM/FlashMLA 算子库、DeepEP 通信库，与 GPU 版一一对应（9/30）
+
+巴克莱扩大与 Anthropic 合作：年底 Claude Code 覆盖 50% 开发者，AI 平台每天处理约 12 万封客户邮件（10/1）
+
+哪条最影响你？评论区聊聊 👇
+
+来源：Google https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/ / Anthropic https://www.anthropic.com/claude-sonnet-5-5 / BBC https://www.bbc.com/news/articles/cm5y5nynl75ko / 量子位 https://www.qbitai.com/2026/09/499263.html / Anthropic https://www.anthropic.com/news/barclays-scales-claude
+
+#AI日报# #大模型# #人工智能# #AI工具# #科技#

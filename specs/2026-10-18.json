@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-18",
+  "title": "10月18日AI速览：5件事",
+  "hook": "新模型 / 智能体系统 / 语音，90秒看完",
+  "handle": "",
+  "bullets": [
+    "DeepSeek-V4.1-Flash-1017 上线（10/17）：基准普遍抬升，任务更快、输出更短，自研搜索 API 千次 5 元",
+    "智谱 GLM-Legal 开源（10/17）：Vals AI 法律测评 19.2% 全通过、86.23% 准确率，Harvey LAB 开放权重第一",
+    "清华 PilotDeck 2.0 开源（10/17）：智能体操作系统，白盒记忆可查可改，长任务成本降约 83%，原生支持 MCP",
+    "SpaceXAI Grok Voice 3.0（10/16）：AA 语音榜 86.9 分居首，延迟不到 1 秒，特斯拉每日百万次对话在跑",
+    "炎曦动力 Paimon-0（10/18）：成立三个月，RoboColiseum、RoboCasa365、VLA-Arena 三项登顶，签约近亿元"
+  ],
+  "tags": ["AI日报", "大模型", "人工智能", "AI工具", "科技"],
+  "body_extra": "哪条最值得关注？评论区聊聊 👇",
+  "sources": [
+    {"name": "量子位", "url": "https://www.qbitai.com/2026/10/504067.html"},
+    {"name": "量子位", "url": "https://www.qbitai.com/2026/10/503965.html"},
+    {"name": "量子位", "url": "https://www.qbitai.com/2026/10/503935.html"},
+    {"name": "93913", "url": "https://www.93913.com/125429.html"},
+    {"name": "93913", "url": "https://www.93913.com/125474.html"}
+  ]
+}

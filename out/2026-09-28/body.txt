@@ -1,0 +1,17 @@
+标题（13字）: 9月28日AI速览：5件事
+
+OpenAI DevDay 2026 定档 9/29 旧金山，开场 keynote 免费直播，官方暂未公布议程与产品清单
+
+央视《超级工程—曙光8000》9/25 起连播四集：首个全国产十万卡 AI 超集群，2021 年底立项、走「超智融合」路线
+
+港股大模型板块 9/28 走低：MiniMax 跌超 10%、智谱跌 5.5%（财联社 9/28 电报）
+
+小米 9/23 发布 HySparse 2：1M token 下预填充算力降至 1/5.02、KV 缓存降至 1/4.5，将用于 MiMo-V3（arXiv:2609.26368）
+
+Black Forest Labs 9/23 开源 7B 机器人动作模型 FLUX 3 Action，登顶 RoboLab 基准（对手 Cosmos 3 Nano 36.8%、Pi0.5 28.0%）
+
+哪条最影响你？评论区聊聊 👇
+
+来源：OpenAI DevDay https://openai.com/devday/ / 环球网/腾讯新闻 https://news.qq.com/rain/a/20260927A06KFP00 / 财联社 https://www.cls.cn/detail/2493715 / IT之家 https://www.ithome.com/1/006/502.htm / Black Forest Labs https://bfl.ai/models/flux-3-action
+
+#AI日报# #大模型# #人工智能# #AI工具# #科技#

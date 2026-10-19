@@ -1,0 +1,17 @@
+标题（14字）: 10月14日AI速览：5件事
+
+谷歌 Gemini 4 Argon 向开发者开放（10/13）：单次输出上限提到 100 万 token，限时输入 2 美元 / 输出 10 美元每百万
+
+字节 Seed 设立大模型安全与对齐部门（10/13）：由严林负责，主攻智能体模型安全与 CBRN 前沿风险防范
+
+OpenAI 联手 Higgsfield（10/14）：接入 GPT-6 Astra 后 AI 视频生成时长上限从 1 分钟提到 10 分钟
+
+字节世界模型首次公开（10/12）：抖音《美好奇妙夜》现场演示一句话生成可自由探索的三维房间
+
+智谱 GLM-5.3-Highspeed 在 Zcode 随机灰度（10/12）：网友实测输出速度达 490 tokens/s
+
+哪条最值得关注？评论区聊聊 👇
+
+来源：Google https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/ / IT之家 https://www.ithome.com/1/012/270.htm / IT之家 https://www.ithome.com/1/012/639.htm / 量子位 https://www.qbitai.com/2026/10/502701.html / 量子位 https://www.qbitai.com/2026/10/502649.html
+
+#AI日报# #大模型# #人工智能# #AI工具# #科技#

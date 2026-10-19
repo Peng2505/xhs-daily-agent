@@ -1,0 +1,17 @@
+标题（13字）: 9月19日AI速览：5件事
+
+OpenAI 9/17 发布 Astra for Law：GPT-6 Astra 的法律专用底座，法律检索索引覆盖 2.3 亿+ URL，评测正确率 54%（仅网页搜索 38.7%）
+
+Anthropic 9/17 公开研发自动化指标：8 月 Claude 主导 26% 的内部 AI 研发（2 月不足 1%），内部平台常驻约 3 万个 Agent
+
+Figure 9/17 发布 Helix 2.5：在湾区 30 栋陌生住宅零样本做家务，成功率从 8% 提升到 56%，还用一半任务数据泛化到新环境
+
+PrismML 9/17 发布 Ternary Bonsai 2 27B：基于 Qwen3.8 27B 三值量化，体积缩 9 倍至 5.9GB，保留 98.2% 性能，Apache 2.0 开源
+
+西班牙 Multiverse 旗舰 Quasar 1.1 438B 被曝基于智谱 GLM5.2 压缩：Artificial Analysis 已标注其底座为 GLM5.2，官方未提来源
+
+哪条最意外？评论区聊聊 👇
+
+来源：OpenAI 官方博客 https://openai.com/index/astra-for-law/ / Anthropic https://www.anthropic.com/institute/measuring-pace-of-ai-development / 科创板日报 https://m.cls.cn/detail/2486727 / PrismML https://prismml.com/news/bonsai-2-27b / 新京报贝壳财经 https://news.sina.com.cn/o/2026-09-18/doc-inisfyez0213487.shtml
+
+#AI日报# #大模型# #人工智能# #开源# #科技#

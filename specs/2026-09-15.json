@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-15",
+  "title": "9月15日AI速览：5件事",
+  "hook": "手机智能体 / 世界模型 / 月球大模型，90秒看完",
+  "handle": "",
+  "bullets": [
+    "豆包手机助手消费者版 9/14 发布：搭载努比亚 NaviX Ultra，9/16 开售，称行业首款落地的 AI 智能体手机",
+    "蚂蚁灵波 9/13 再开源三款世界模型，最小 LingBot-World 2.0 Small 仅 1.3B，消费级单卡 GPU 即可实时生成",
+    "马斯克 9/14 透露：Grok 4.8 参数量 2.5 万亿，全新 C++ 软件栈训练，本周完成训练转强化学习",
+    "IBM 与 NASA 9/14 开源月球基础模型：识别潜在冰沉积误差最多降 22%，并配套首个开源月球数据集",
+    "英伟达等开始限制员工内部使用 Claude（敏感代码外流顾虑，改用自研 Nemotron），谷歌反而全面放开"
+  ],
+  "tags": ["AI日报", "大模型", "人工智能", "AI智能体", "科技"],
+  "body_extra": "哪条最意外？评论区聊聊 👇",
+  "sources": [
+    {"name": "时代财经（豆包手机助手）", "url": "https://www.tfcaijing.com/index.php/newsflash/page/572f314862624c6d465570534e7550504438417774413d3d"},
+    {"name": "凤凰网科技（LingBot-World 2.0）", "url": "https://tech.ifeng.com/c/8wOZMSGxgWg"},
+    {"name": "凤凰网科技（Grok 4.8）", "url": "https://tech.ifeng.com/c/8wPNRVMeSwU"},
+    {"name": "IBM 新闻稿（月球基础模型）", "url": "https://china.newsroom.ibm.com/2026-09-14-IBM-NASA-AI"},
+    {"name": "观察者网硬科技早报 9/15", "url": "https://www.guancha.cn/CaiJing/2026_09_15_900651.shtml"}
+  ]
+}

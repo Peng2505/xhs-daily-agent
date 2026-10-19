@@ -1,0 +1,17 @@
+标题（13字）: 9月16日AI速览：5件事
+
+谷歌 9/15 发布 Gemini 3.8 Live 与 3.8 Live Extended Thinking：对话中自动切换 97 种语言，语音质量指数 82.6 登顶
+
+联发科 9/15 发布天玑 9600 Pro：首款 2nm 旗舰 5G Agentic AI 芯片，端侧可跑 30B MoE，Prefill 提速 51%
+
+路透 9/15：OpenAI 正与 Anthropic、谷歌 DeepMind 商谈 AI 安全协作，称无需反垄断豁免
+
+智象未来 9/15 发布 HD-V1：首个原生全模态视频生成模型，一键直出 5-20 秒 1080p 视频
+
+Gartner 9/15 发布 2026 中国 AI 十大趋势：智能体劳动力、世界模型、个人智能体、AI 超级入口入选
+
+哪条最意外？评论区聊聊 👇
+
+来源：Google 官方博客 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/ / MediaTek 新闻稿 https://www.mediatek.com/zh-tw/press-room/mediatek-dimensity-9600-pro-sets-new-standard-for-flagship-smartphone-chips / 路透社 https://www.reuters.com/technology/openai-is-working-with-anthropic-google-ai-safety-bloomberg-news-reports-2026-09-15/ / 凤凰网科技 https://tech.ifeng.com/c/8wRbgGbpwie / Gartner 新闻稿 https://www.gartner.com/cn/newsroom/press-releases/2026-09-15-gartner-releases-2026-top-ai-trends-for-china
+
+#AI日报# #大模型# #人工智能# #AI智能体# #科技#

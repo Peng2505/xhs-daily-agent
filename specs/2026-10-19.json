@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-19",
+  "title": "10月19日AI速览：5件事",
+  "hook": "巨头治理 / 密码学悬案 / 世界模型，90秒看完",
+  "handle": "",
+  "bullets": [
+    "Anthropic 设公众利益基金（10/18）：先押 5% 股份，市值每涨 50% 再由董事会加 2%，合计约 20% 归公益",
+    "Claude 半小时解开 25 年谜案（10/16）：NIST 曲线种子源自 lrand48 与 1997 年时间戳，非破解",
+    "VAST 开源实时世界模型 EdenLive（10/18）：5B 单张 RTX 5090 跑 720P 超 24FPS，权重代码全开",
+    "国行苹果智能接入阿里千问（10/15）：10 月底推测试版，首批含实时翻译、书写工具，Siri AI 缺席",
+    "Meta 开源 Muse Spark Open（10/15）：816B MoE、42B 激活、1M 上下文，称美国最强开放权重"
+  ],
+  "tags": ["AI日报", "大模型", "人工智能", "AI工具", "科技"],
+  "body_extra": "哪条最值得关注？评论区聊聊 👇",
+  "sources": [
+    {"name": "Anthropic", "url": "https://www.anthropic.com/news/public-benefit-fund"},
+    {"name": "Anthropic", "url": "https://www.anthropic.com/research/ecdsa-curve-origins"},
+    {"name": "量子位", "url": "https://www.qbitai.com/2026/10/504136.html"},
+    {"name": "量子位", "url": "https://www.qbitai.com/2026/10/503640.html"},
+    {"name": "Hugging Face", "url": "https://huggingface.co/blog/meta-muse-spark-open"}
+  ]
+}

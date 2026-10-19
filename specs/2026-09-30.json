@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-30",
+  "title": "9月30日AI速览：5件事",
+  "hook": "OpenAI 发布周 / 开源电脑智能体 / 人形机器人，90秒看完",
+  "handle": "",
+  "bullets": [
+    "OpenAI DevDay 2026（9/29）推出常驻智能体 Dots：GPT-6 Astra 驱动、自带云电脑与浏览器，可连 4000+ 应用",
+    "OpenAI 同场发布 GPT-6.1 Sol：能力接近 Astra 而价格仅 1/5（输入 $2、输出 $10 每百万 tokens），ChatGPT 周活达 12 亿",
+    "H Company 开源 Holo4 电脑操作智能体：27B 稠密 + 35B-A3B 混合专家，支持 GUI、代码、MCP 与 API",
+    "IDC：2026 上半年全球人形机器人出货近 2.5 万台（同比 +432.1%），2030 年预计超 75 万台",
+    "CNNIC 报告：我国生成式 AI 用户破 7 亿、普及率超 50%；上半年相关投融资 1255 起约 2501 亿元"
+  ],
+  "tags": ["AI日报", "大模型", "人工智能", "AI工具", "科技"],
+  "body_extra": "哪条最影响你？评论区聊聊 👇",
+  "sources": [
+    {"name": "OpenAI", "url": "https://openai.com/index/devday-2026-recap/"},
+    {"name": "OpenAI", "url": "https://openai.com/index/introducing-gpt-6-1-sol/"},
+    {"name": "Hugging Face", "url": "https://huggingface.co/blog/Hcompany/holo4"},
+    {"name": "界面新闻", "url": "https://news.qq.com/rain/a/20260929A05LYA00"},
+    {"name": "央广网", "url": "https://www.cnr.cn/tech/gstj/20260930/t20260930_527829779.shtml"}
+  ]
+}

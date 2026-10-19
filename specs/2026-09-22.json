@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-22",
+  "title": "9月22日AI速览：5件事",
+  "hook": "大模型 / 图像开源 / AI芯片，90秒看完",
+  "handle": "",
+  "bullets": [
+    "阶跃星辰 9/20 发布旗舰基座 Step 5 Preview：稀疏 MoE，总参 600B、激活仅 27B，100 万 Token 上下文，10/15 正式开源",
+    "阿里千问 9/20 开源 Qwen-Image-2.1：文生图与图像编辑合一，视觉生成部分仅 7B 参数，原生支持透明图，可传 10 张参考图",
+    "小米 9/21 发布并开源 MiMo-V2.6 系列：Pro 是万亿参数全模态旗舰，AA 智能指数 46 分，官方称当前最强开源模型",
+    "xAI 9/21 发布 Grok 4.7：换更大基座 + 更长 RL，CursorBench 4.0 拿 46.3%，定价 $2/$6 每百万 Token，与 4.6 同价",
+    "云栖大会 9/22：平头哥发布真武 V900，算力为 M890 的 3 倍、单集群可扩至 50 万卡；新一代 Qwen4 已在训练中"
+  ],
+  "tags": ["AI日报", "大模型", "人工智能", "开源", "科技"],
+  "body_extra": "哪条最意外？评论区聊聊 👇",
+  "sources": [
+    {"name": "中国证券报（搜狐转载）", "url": "https://m.sohu.com/a/1078654665_120988533"},
+    {"name": "新浪科技（IT之家）", "url": "https://finance.sina.com.cn/tech/digi/2026-09-20/doc-inisnssu9285198.shtml"},
+    {"name": "小米 MiMo 官方", "url": "https://mimo.mi.com/docs/zh-CN/news/latest/v2-6"},
+    {"name": "xAI 官方博客", "url": "https://x.ai/news/grok-4-7"},
+    {"name": "财联社", "url": "https://www.cls.cn/detail/2489879"}
+  ]
+}

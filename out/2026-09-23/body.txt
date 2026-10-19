@@ -1,0 +1,17 @@
+标题（13字）: 9月23日AI速览：5件事
+
+OpenAI 9/22 补全 GPT-6 家族：新增 Sol 与 Luna，API 价格比 GPT-5.6 促销价降 50%，Sol 输入 $2 / 输出 $10 每百万 Token
+
+Anthropic 9/22 发布 Claude Opus 5.5：多数任务达到 Fable 5.1 水平，运行成本比 Opus 5 低 40%，缓存读取单价降 60%
+
+OpenAI 同日升级 GPT-6 提示缓存：30 分钟内复用的共享前缀给折扣，缓存输入最高省 90%，新增命中率看板与 miss 诊断
+
+高德 9/22 云栖大会发布全空间无人体系与千舆开放平台：8000 万+ POI、7500 平方公里三维模型，「云睿」开放 56 项以上 MCP 能力
+
+高通 9/22–24 骁龙峰会主推 Agentic AI：9/23 设 Personal AI 与 Agentic PC 专场，AnythingLLM 等应用已在骁龙 X PC 跑本地智能体
+
+哪条最影响你？评论区聊聊 👇
+
+来源：OpenAI https://openai.com/index/introducing-gpt-6-sol-and-luna/ / Anthropic https://anthropic.com/claude-opus-5-5 / OpenAI https://openai.com/index/better-prompt-caching-for-gpt-6/ / 国际金融报 https://www.ifnews.com/news.html?aid=872081&cid=43 / TradingKey https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262180508-qualcomm-snapdragon-summit-ai-agent-ai-pc-qcom-new-catalyst-tradingkey
+
+#AI日报# #大模型# #人工智能# #AI工具# #科技#

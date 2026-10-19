@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-04",
+  "title": "10月4日AI速览：5件事",
+  "hook": "模型 / 语音 / 论文生态 / 行业，90秒看完",
+  "handle": "",
+  "bullets": [
+    "Anthropic 投1亿美元办前沿学院，到2027年底培训1万名企业AI工程师（10/2）",
+    "Black Forest Labs 发布 FLUX 3 Image：最高4K输出，可按坐标网格精准排布元素（10/2）",
+    "微软首个流式语音模型 MAI-Transcribe-2-Streaming：2.5%词错率、0.13秒延迟（10/2）",
+    "arXiv 实施新规：每人每月限投2篇、在审稿件不超3篇，直指AI灌水稿（10/1起）",
+    "OpenAI 安全团队再震荡：安全透明度负责人离职，3名员工因泄密被解雇（10/3）"
+  ],
+  "tags": ["AI日报", "大模型", "人工智能", "AI工具", "科技"],
+  "body_extra": "",
+  "sources": [
+    {"name": "Anthropic", "url": "https://www.anthropic.com/news/claude-frontier-academy"},
+    {"name": "IT之家", "url": "https://www.ithome.com/1/009/315.htm"},
+    {"name": "IT之家", "url": "https://www.ithome.com/1/009/183.htm"},
+    {"name": "IT之家", "url": "https://www.ithome.com/1/009/279.htm"},
+    {"name": "量子位", "url": "https://www.qbitai.com/2026/10/501368.html"}
+  ]
+}

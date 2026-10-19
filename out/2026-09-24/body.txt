@@ -1,0 +1,17 @@
+标题（13字）: 9月24日AI速览：5件事
+
+云栖大会（9/22）：阿里确认 Qwen4 已投入训练，后续 Qwen4.5/Qwen5 参数将扩到 5 万亿甚至 10 万亿
+
+Qwen3.8-Max 展示「自我进化」：零人工参与自主迭代 33 轮，Artificial Analysis 得分从 40 升到 45
+
+阿里三款千问 AI 硬件 9/23 亮相：智能体电脑 Qwen Book、AI 眼镜 N1、耳夹耳机，10 月 13 日开卖
+
+OpenAI 9/23 发布 MentalHealthBench：联合 22 国 80 余位持证专家，评测 AI 心理健康对话能力
+
+英伟达 9/22 发布 Isaac ROS 5.0，让 AI Agent 参与机器人开发；Tether 放出 1914 亿 token STEM 数据集
+
+哪条最影响你？评论区聊聊 👇
+
+来源：量子位 https://www.qbitai.com/2026/09/493625.html / 广州日报大洋网 https://news.dayoo.com/finance/202609/23/171077_55007153.htm / OpenAI https://openai.com/index/introducing-mentalhealthbench/ / NVIDIA https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/ / Tether https://tether.io/news/tether-releases-genesis-iii-to-train-ai-to-explain-not-just-answer-stem-problems/
+
+#AI日报# #大模型# #人工智能# #AI工具# #科技#

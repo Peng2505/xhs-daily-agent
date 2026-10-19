@@ -1,0 +1,17 @@
+标题（13字）: 10月3日AI速览：5件事
+
+黑森林实验室发布图像模型 FLUX 3 Image：用 JSON 布局和包围框指定区域，框外像素逐位不变，一次可改多个元素（10/1）
+
+月之暗面 Kimi K3 进入 OpenAI 企业采购体系：Baseten 让企业通过 Codex 调用 Kimi K3（2.8 万亿参数、100 万上下文）与 GLM 5.3（9/30）
+
+OpenAI 发布全天候智能体 Dots：可常驻后台跑多步任务；同时上线 500 美元/月 Pro 套餐，Codex 快 8 倍，200 美元套餐额度将减半（9/30）
+
+美国 FTC 正式立案调查 OpenAI、Anthropic 与评测机构 METR：核查 AI 与自主智能体对消费者的风险，并拟发民事调查令要求高管作证（9/30）
+
+加州签署 SB 947「反机器人老板法」：禁止仅凭自动化系统解雇或惩戒员工，须人工复核并书面告知员工，2027 年 7 月 1 日生效（9/30）
+
+哪条最影响你？评论区聊聊 👇
+
+来源：Black Forest Labs https://bfl.ai/models/flux-3-image / IT之家 https://www.ithome.com/1/008/864.htm / IT之家 https://www.ithome.com/1/008/559.htm / Micro Center https://www.microcenter.com/site/mc-news/article/this-week-in-ai-oct-2-2026.aspx / Reuters https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30/ / California Senate https://sd05.senate.ca.gov/news/newsom-signs-mcnerneys-no-robo-bosses-act-2026-requiring-human-oversight-ai-workplace
+
+#AI日报# #大模型# #人工智能# #AI工具# #科技#

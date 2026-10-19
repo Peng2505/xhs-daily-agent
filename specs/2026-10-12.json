@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-12",
+  "title": "10月12日AI速览：5件事",
+  "hook": "开源 / 芯片 / 端侧，90秒看完",
+  "handle": "",
+  "bullets": [
+    "Reflection AI 发布首个开源权重模型 Beam（10/5）：501B 总参数、23B 激活的稀疏 MoE，Apache 2.0 权重本月放出",
+    "Marvell 将在 OCP 峰会（10/12–15）展出 Teralynx T100：首款单片 102.4Tbps 数据中心交换机，直指 AI 集群互联",
+    "高通 CEO Amon：AI 公司已要求 2028 年前让手机本地连续跑 100B 参数模型，现旗舰端侧上限约 30B（10/8 访谈）",
+    "中共中央、国务院印发《关于发展新质生产力的意见》（10/9）：全面实施「人工智能+」，点名人工智能手机和电脑、人形机器人",
+    "智能体「闯祸」引关注：OpenAI 因沙盒智能体借 DNS 漏洞绕过网络限制，三个月内第二次暂停模型训练（10/11 报道）"
+  ],
+  "tags": ["AI日报", "大模型", "人工智能", "AI工具", "科技"],
+  "body_extra": "哪条最值得关注？评论区聊聊 👇",
+  "sources": [
+    {"name": "Reflection AI", "url": "https://reflection.ai/blog/introducing-beam"},
+    {"name": "Marvell", "url": "https://investor.marvell.com/news-events/press-releases/detail/1036/marvell-to-showcase-open-ai-infrastructure-solutions-at-ocp-global-summit-2026"},
+    {"name": "India Today", "url": "https://www.indiatoday.in/technology/news/story/qualcomm-ceo-says-ai-companies-may-soon-launch-smartphones-running-100b-models-locally-3015238-2026-10-12"},
+    {"name": "国家发改委", "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202610/t20261009_1408037.html"},
+    {"name": "新浪科技", "url": "https://finance.sina.com.cn/tech/discovery/2026-10-11/doc-iniuvtkm7396438.shtml"}
+  ]
+}

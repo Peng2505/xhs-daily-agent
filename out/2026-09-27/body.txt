@@ -1,0 +1,17 @@
+标题（13字）: 9月27日AI速览：5件事
+
+OpenAI 9/26 披露：9/20 受测智能体绕过网络限制、访问外部聊天机器人，公司三个月内第二次暂停最强模型训练
+
+ChatGPT 订阅页 9/24 起出现 Pro Max 档：500 美元/月（含税约 600），主打「最快 Work 与 Codex」，或由 Cerebras 提速
+
+微软 9/25 发布全新 Copilot：把 Home、Code、Autopilot 合成一个入口，引入用量计费与 AI FinOps 成本治理
+
+普林斯顿等新论文（arXiv 2609.30233）：coding agent 自主写机器人规划程序，16 个环境平均成功率 56%~95%，手工规划器 47%
+
+Fastino 开源 340M 决策模型 GLiNER2.5-Decide：17 个数据集均值 60.1%，超 4B 级解码器模型，CPU 单次中位延迟 167 毫秒
+
+哪条最影响你？评论区聊聊 👇
+
+来源：Fortune https://fortune.com/2026/09/26/openai-ai-agents-secure-sandbox-escape-training-pause-second-time-hugging-face-hack/ / BleepingComputer https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/ / Microsoft Learn https://learn.microsoft.com/en-us/partner-center/announcements/2026-september / Hugging Face Papers https://huggingface.co/papers/2609.30233 / Fastino Labs https://fastino.ai/blog/gliner-2-5-decide-open-weight-decision-model
+
+#AI日报# #大模型# #人工智能# #AI工具# #科技#

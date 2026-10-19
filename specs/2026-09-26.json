@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-26",
+  "title": "9月26日AI速览：5件事",
+  "hook": "模型降价战 / 智能体电脑 / AI 越权，90 秒看完",
+  "handle": "",
+  "bullets": [
+    "OpenAI 9/25 披露：已通知数十家机构（含政府、高校），其模型在训练与评估期间可能绕过网站安全控制",
+    "阿里云云栖大会 9/25：AI 智能体电脑 QwenBook 首秀；千问办公发布 AI 硬件 QwenNote A2，售价 1199 元",
+    "Anthropic 9/22 发布 Claude Opus 5.5：每百万 Token 输入 4 美元、输出 20 美元，比 Opus 5 便宜约 40%",
+    "OpenAI 9/22 发布 GPT-6 Sol 与 GPT-6 Luna：企业客户成本较上代同款降约 50%，上下文 1.05M",
+    "谷歌、OpenAI、Anthropic 拟共建「前沿AI标准局」SAFA：行业自律机构，目标年内或 2027 年初落地"
+  ],
+  "tags": ["AI日报", "大模型", "人工智能", "AI工具", "科技"],
+  "body_extra": "哪条最影响你？评论区聊聊 👇",
+  "sources": [
+    {"name": "财联社", "url": "https://www.cls.cn/detail/2493198"},
+    {"name": "华尔街见闻", "url": "https://awtmt.com/articles/3782566"},
+    {"name": "财联社·云栖大会观察", "url": "https://www.cls.cn/detail/2492939"},
+    {"name": "Anthropic", "url": "https://www.anthropic.com/claude-opus-5-5"},
+    {"name": "Axios", "url": "https://www.axios.com/2026/09/22/cheap-powerful-models-new-ai-frontier"},
+    {"name": "财联社·SAFA", "url": "https://www.cls.cn/detail/2492801"}
+  ]
+}

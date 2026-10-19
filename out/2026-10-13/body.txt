@@ -1,0 +1,17 @@
+标题（14字）: 10月13日AI速览：5件事
+
+Meta 发布首个前沿模型 Muse Wonder 系列（10/12）：主打跨会话记忆与长任务坚持，已开放 Meta Model API
+
+微软发布 Maia 300 推理芯片（10/12）：每兆瓦 token 产出比主流 GPU 高 40%，96 卡机架吞吐达 Maia 200 的 7 倍
+
+Anthropic 红队：9B 模型已在 9 类商用 IoT 设备中 8 类跑通推理，30B 以下模型距自我复制或只差几个月（10/12）
+
+DeepMind 的 AlphaProof Nexus 解出 353 个 Erdős 开放问题中的 9 个，成果登上 Science（10/12）
+
+Linus Torvalds 提交由 Claude Code 参与重写的 Linux 内核页缓存分支（10/12），8 线程小读吞吐提升约 3 倍
+
+哪条最值得关注？评论区聊聊 👇
+
+来源：Meta https://about.fb.com/news/2026/10/introducing-muse-wonder-models/ / Microsoft https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/ / Anthropic https://www.anthropic.com/research/self-replicating-ai / The Decoder https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/ / Hardware Busters https://hwbusters.com/news/linus-torvalds-uses-claude-code-to-rework-the-linux-page-cache-tripling-small-read-throughput/
+
+#AI日报# #大模型# #人工智能# #AI工具# #科技#

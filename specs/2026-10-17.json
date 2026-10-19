@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-17",
+  "title": "10月17日AI速览：5件事",
+  "hook": "闭源旗舰 / 开源权重 / 世界模型，90秒看完",
+  "handle": "",
+  "bullets": [
+    "Gemini 4 Argon 全球开放（10/16）：AA 智能指数 53 分进第一梯队，每任务成本 1.99 美元，比 GPT-6 Astra 低约 39%",
+    "Reflection AI 开源 Beam（10/16）：5010 亿总参数 / 230 亿激活 MoE，Apache 2.0，权重含 BF16、FP8、NVFP4",
+    "优必选 Thinker-WM（10/16）：WorldOlympiad 综合 0.740、EWMBench 4.66，三大世界模型基准全部第一，3 万小时训练数据",
+    "腾讯 Hy-Memory-30B-A3B（10/15 arXiv）：专攻长期记忆写入，Mem0、MemOS 等四个框架全第一，宏观均分 55.49 高于 Claude Opus 5",
+    "英伟达 Nemotron 3.5 Bolt 74B-A9B（10/15）：原生 2bit 量化塞进 24GB 显存，PinchBench 同类第一，可本地跑智能体"
+  ],
+  "tags": ["AI日报", "大模型", "人工智能", "AI工具", "科技"],
+  "body_extra": "哪条最值得关注？评论区聊聊 👇",
+  "sources": [
+    {"name": "量子位", "url": "https://www.qbitai.com/2026/10/503701.html"},
+    {"name": "Reflection", "url": "https://reflection.ai/blog/beam-is-available"},
+    {"name": "量子位", "url": "https://www.qbitai.com/2026/10/503843.html"},
+    {"name": "arXiv", "url": "https://arxiv.org/abs/2610.22196"},
+    {"name": "NVIDIA", "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/"}
+  ]
+}

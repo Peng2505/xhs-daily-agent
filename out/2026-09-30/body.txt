@@ -1,0 +1,17 @@
+标题（13字）: 9月30日AI速览：5件事
+
+OpenAI DevDay 2026（9/29）推出常驻智能体 Dots：GPT-6 Astra 驱动、自带云电脑与浏览器，可连 4000+ 应用
+
+OpenAI 同场发布 GPT-6.1 Sol：能力接近 Astra 而价格仅 1/5（输入 $2、输出 $10 每百万 tokens），ChatGPT 周活达 12 亿
+
+H Company 开源 Holo4 电脑操作智能体：27B 稠密 + 35B-A3B 混合专家，支持 GUI、代码、MCP 与 API
+
+IDC：2026 上半年全球人形机器人出货近 2.5 万台（同比 +432.1%），2030 年预计超 75 万台
+
+CNNIC 报告：我国生成式 AI 用户破 7 亿、普及率超 50%；上半年相关投融资 1255 起约 2501 亿元
+
+哪条最影响你？评论区聊聊 👇
+
+来源：OpenAI https://openai.com/index/devday-2026-recap/ / OpenAI https://openai.com/index/introducing-gpt-6-1-sol/ / Hugging Face https://huggingface.co/blog/Hcompany/holo4 / 界面新闻 https://news.qq.com/rain/a/20260929A05LYA00 / 央广网 https://www.cnr.cn/tech/gstj/20260930/t20260930_527829779.shtml
+
+#AI日报# #大模型# #人工智能# #AI工具# #科技#

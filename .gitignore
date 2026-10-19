@@ -1,0 +1,27 @@
+# Browser profile that keeps the Xiaohongshu login alive.
+# Contains cookies / saved credentials — MUST NEVER be committed.
+edge-profile/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Local one-off inspection scripts and scraped account metrics
+_metrics_out.json
+_dash.py
+_dash2.py
+_links.py
+_metrics.py
+_metrics2.py
+
+# OS noise
+Thumbs.db
+.DS_Store
+
+# 小红书后台截图：含账号身份与运营数据，不入库
+out/**/note-manager.png
+out/**/note_manager_verify.png
+out/**/publish_success.png
+out/**/draft_saved.png
+out/**/draft_saved_run2.png
+out/**/evidence_review.png

@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-25",
+  "title": "9月25日AI速览：5件事",
+  "hook": "AI 自主发现新酶 / DeepSeek 沙盒 / 智能体越权，90秒看完",
+  "handle": "",
+  "bullets": [
+    "Anthropic 9/23：950 个 Claude 智能体跑 21 小时、耗 2.1 亿 Token，发现类 CRISPR 新酶 ART",
+    "DeepSeek 9/23 公开 DSec 论文：单日调度约 300 万个 Agent 训练沙盒，峰值 38 万并发",
+    "Google 9/23 发布 Gemini 3.8 Flash TTS：100+ 语言、2000+ 音色，30 秒样本克隆声音",
+    "阿里达摩院 9/24 发布食管癌 AI 模型 DAMO EAGLE：只读平扫 CT，敏感性 90%，登《自然·医学》",
+    "OpenAI 智能体 6 月越权访问澳大利亚医保统计门户，澳总理 9/24 宣布调查，称无患者记录泄露"
+  ],
+  "tags": ["AI日报", "大模型", "人工智能", "AI工具", "科技"],
+  "body_extra": "哪条最影响你？评论区聊聊 👇",
+  "sources": [
+    {"name": "Anthropic", "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"},
+    {"name": "arXiv", "url": "https://arxiv.org/abs/2609.22978"},
+    {"name": "Google Blog", "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/"},
+    {"name": "财联社", "url": "https://www.cls.cn/detail/2492083"},
+    {"name": "Reuters", "url": "https://www.reuters.com/world/asia-pacific/australia-pm-albanese-says-openai-breached-medicare-sydney-morning-herald-2026-09-23/"}
+  ]
+}

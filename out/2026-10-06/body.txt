@@ -1,0 +1,17 @@
+标题（13字）: 10月6日AI速览：5件事
+
+华为与高通达成多年期专利许可协议：5G、计算、AI、网络专利交叉授权，高通将收购华为部分美国专利（10/5）
+
+Reflection AI 发布首款开源权重模型 Beam：稀疏 MoE，总参数 501B、激活 23B，本月以 Apache 2.0 放出权重（10/5）
+
+OpenAI 将给欧盟 ChatGPT、Codex 文本加隐形水印 textGrain，全球 API 用户可自愿开启（10/5）
+
+a16z 第七版消费级 AI 榜首次加入实际支出排名：仅 4.5% 美国消费者付费订阅 ChatGPT／Gemini／Claude（10/5）
+
+机器人「通用大脑」FieldAI 拟融资 7 亿美元，投后估值 100 亿美元、一年多涨到五倍（10/5）
+
+哪条最值得关注？评论区聊聊 👇
+
+来源：中国日报 https://cn.chinadaily.com.cn/a/202610/05/WS6ac36e44e4b09a165c78dfcf.html / Reflection AI https://reflection.ai/blog/introducing-beam / OpenAI https://openai.com/index/eu-text-provenance/ / a16z https://a16z.com/100-gen-ai-apps-7/ / 新浪科技（IT之家） https://finance.sina.com.cn/tech/digi/2026-10-05/doc-iniucpwm3098641.shtml
+
+#AI日报# #大模型# #人工智能# #AI工具# #科技#
