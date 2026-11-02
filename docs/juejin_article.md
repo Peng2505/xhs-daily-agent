@@ -278,7 +278,9 @@ const perms = Array.from(document.querySelectorAll('[class*=permission]')).map(e
 
 ## 附：摘要
 
-一个没有开放发布 API 的站点，如何被自动化到可以无人值守连续跑 50 天。本文拆解小红书 AI 资讯自动发布 Agent 的真实实现：独立 user-data-dir + CDP 解决登录态、closed shadow DOM 与坐标点击失效的三级降级、tiptap 编辑器写入、三判据验收与幂等防重复发布，以及 35 次运行、3 次失败背后的复盘。重点是那条分界线：什么该交给 Agent，什么必须写成确定性脚本。
+小红书没有发布 API。用 CDP 驱动一个常驻登录态的浏览器，把检索、配图、发布、验收跑成定时任务，处理 shadow DOM、坐标点击失效与编辑器写入。50 天 35 次无人值守发布，失败 3 次。
+
+> 备选（含结论句，111 字符）：小红书发布无 API：CDP 驱动常驻登录浏览器打通检索、配图、发布、验收，解决 shadow DOM 定位、点击失效、tiptap 写入与三判据验收。50 天 35 次发布，失败 3 次。判断给 Agent，动作给脚本。
 
 ## 附：建议标签
 
