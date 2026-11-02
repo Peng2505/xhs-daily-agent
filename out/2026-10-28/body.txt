@@ -1,0 +1,17 @@
+标题（14字）: 10月28日AI速览：5件事
+
+谷歌DeepMind发布世界模型Genie 4（10/27）：模拟中可打字改天气、实时生成音效，一致时长翻倍至2分钟
+
+OpenAI称模型证伪了近30年的「指数时间假设」ETH，Anthropic 数小时后也发布自己的证伪（10/27）
+
+蚂蚁百灵开源 Ling-3.1-flash-1019（10/28）：AA智能指数44分(+3)，基座560B总参、MIT许可
+
+国产3D大模型 Hi3D 开放 V1.0 源码（10/27）：200万3D资产训练、1536³分辨率，V3.0达2048³
+
+岩芯矩阵联合港科大、CMU开源 EdgeRock-4B（10/26）：KV Cache恒定72MiB，单卡吞吐6.42倍
+
+哪条最值得关注？评论区聊聊 👇
+
+来源：TechCrunch(Genie 4) https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/ / TechCrunch(ETH) https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/ / 量子位(Ling-3.1-flash) https://www.qbitai.com/2026/10/505928.html / 量子位(Hi3D) https://www.qbitai.com/2026/10/505694.html / 量子位(EdgeRock) https://www.qbitai.com/2026/10/505407.html
+
+#AI日报# #大模型# #人工智能# #AI工具# #科技#

@@ -1,0 +1,17 @@
+标题（14字）: 10月20日AI速览：5件事
+
+MiniMax M3.1 Flash 发布（10/19）：推理快近 3 倍、成本降 70%，1M 上下文，权重稍后开源
+
+OpenAI 开源 MultiLangBench（10/19）：GPT-6 Astra 20 语言建库通过率 87.4%
+
+Dream Labs 拿 9000 万美元种子轮（10/19）：Dream-1 机器人模型开放 API，20+ 硬件厂商
+
+达摩院玄铁发 E908A 车规 IP（10/19）：首个同达 ASIL-B/D，SPFM 超 90%，下代性能 5 倍
+
+商汤大装置日均 6 万亿 Token（10/19）：PD 分离异构集群吞吐 5 倍，Q4 冲日均 10 万亿
+
+哪条最值得关注？评论区聊聊 👇
+
+来源：MiniMax https://www.minimax.io/blog/minimax-m31f / OpenAI https://openai.com/index/low-resource-programming-languages/ / Business Wire https://www.businesswire.com/news/home/20261019230613/en/Dream-Labs-Raises-%2490M-Seed-to-Build-the-Brain-for-Everyday-Robots / 量子位 https://www.qbitai.com/2026/10/504238.html / 量子位 https://www.qbitai.com/2026/10/504188.html
+
+#AI日报# #大模型# #人工智能# #AI工具# #科技#

@@ -1,0 +1,17 @@
+标题（13字）: 11月1日AI速览：5件事
+
+DeepSeek 发布 Super-agent 架构：双层+事件驱动+存算分离，内部实例没人 @ 也会自己复现修 bug（10/31）
+
+Apple 智能登陆中国：11/4 随开发者 Beta 测试，12 月 iOS 27.3 正式上线，Siri 接入阿里千问（10/31）
+
+Mistral Large 4 开放权重：1.05 万亿参数 MoE、每 token 激活 490 亿，FP8 权重 1.06TB（10/29）
+
+上海临港海底数据中心全面商用，运营商与头部大模型企业已接入跑国产模型推理（10/31）
+
+广交会：AI 智能体服装选款几分钟出多套方案，AI 陪伴公仔、AI 书写笔成亮点（10/31）
+
+这五条里，你最想先试哪个？评论区聊聊 👇
+
+来源：新浪财经(DeepSeek Super-agent) https://finance.sina.com.cn/jjxw/2026-10-31/doc-inixcwwk1422483.shtml / Apple 新闻稿 https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/ / AIFOD 引述 LLM Rumors(Mistral Large 4) https://af.net/zh/realtime/mistral-releases-open-weights-for-1-05t-parameter-mistral-large-4/ / 央视新闻联播/新浪(算力网) http://news.sina.com.cn/zx/gj/2026-10-31/doc-inixcsqp7302234.shtml / 央视新闻联播/新浪(广交会) http://news.sina.com.cn/zx/gj/2026-10-31/doc-inixcsqn1518546.shtml
+
+#AI日报# #大模型# #人工智能# #AI工具# #科技#

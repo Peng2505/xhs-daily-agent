@@ -13,6 +13,10 @@ _dash2.py
 _links.py
 _metrics.py
 _metrics2.py
+_stats_now.py
+_stats_all.py
+_stats_now.json
+_stats_all.json
 
 # OS noise
 Thumbs.db

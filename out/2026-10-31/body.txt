@@ -1,0 +1,17 @@
+标题（14字）: 10月31日AI速览：5件事
+
+智元发布 GO-3 Preview 与灵渠OS 1.0：三榜第一，灵渠OS年底开源并捐给开放原子基金会（10/29）
+
+OpenAI 重构 Model Spec：改为围绕忠实人类意图、减少伤害、诚实、人的自主性、关怀五条价值（10/29）
+
+Google 把 Computer Use 转正：Gemini API 里让模型直接操作电脑的工具正式 GA（10/30）
+
+OpenAI 社区安全报告：Q3 向执法机关转介 200+ 次，并收紧未成年人枪支相关内容（10/30）
+
+腾讯官宣混元 Hy4 / Hy4 flash 即将发布：强化长程任务，首次引入视觉理解（10/29）
+
+这五条里，你最想先试哪个？评论区聊聊 👇
+
+来源：智元创新日官方新闻稿(美通社) https://www.prnewswire.com/apac/zh/news-releases/worken---302923463.html / OpenAI(Model Spec 更新) https://openai.com/index/updated-model-spec/ / Gemini API 版本说明 https://ai.google.dev/gemini-api/docs/changelog / OpenAI(社区安全报告) https://openai.com/index/community-safety-report-and-new-protections-for-teens/ / 快科技(腾讯混元Hy4) https://news.mydrivers.com/1/1161/1161485.htm
+
+#AI日报# #大模型# #人工智能# #AI工具# #科技#

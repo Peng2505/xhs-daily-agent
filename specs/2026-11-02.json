@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-02",
+  "title": "11/2 AI速览：5件事",
+  "hook": "模型 / 开源 / 世界模型，90秒看完",
+  "handle": "",
+  "bullets": [
+    "OpenAI 悄悄灰度 GPT-6.2 Astra：Codex 统计页与状态栏已显示 gpt-6.2-astra，官方模型目录仍未上架（11/2）",
+    "Anthropic 官方确认：Opus 5.5 系统提示词加两条，禁止 Claude Code 复刻现有游戏，原创开发被误伤（11/1）",
+    "谷歌联合 6 校开源 CLASHarness：600 个多 Agent 冲突任务、15 个模型，端到端通过率无一超 30%（11/1）",
+    "英伟达开源 PixelUMM：不要 ViT 也不要 VAE，像素直连主干，一套权重同时做图像视频理解与生成（11/1）",
+    "西湖世界模型研究中心 10/31 成立，于开丞任主任，金耀初院士任首席科学家（11/1）"
+  ],
+  "tags": [
+    "AI日报",
+    "大模型",
+    "人工智能",
+    "AI工具",
+    "科技"
+  ],
+  "body_extra": "",
+  "sources": [
+    {
+      "name": "机器之心/新浪科技(GPT-6.2 Astra)",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-02/doc-inixhwzc2371212.shtml"
+    },
+    {
+      "name": "量子位(Claude Code 禁复刻游戏)",
+      "url": "https://www.qbitai.com/2026/11/507038.html"
+    },
+    {
+      "name": "arXiv:2610.19128(CLASHarness)",
+      "url": "https://arxiv.org/abs/2610.19128"
+    },
+    {
+      "name": "arXiv:2609.38597(PixelUMM)",
+      "url": "https://arxiv.org/abs/2609.38597"
+    },
+    {
+      "name": "量子位(西湖世界模型研究中心)",
+      "url": "https://www.qbitai.com/2026/11/507076.html"
+    }
+  ]
+}

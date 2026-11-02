@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-31",
+  "title": "10月31日AI速览：5件事",
+  "hook": "具身OS开源 / 智能体上手电脑，90秒看完",
+  "handle": "",
+  "bullets": [
+    "智元发布 GO-3 Preview 与灵渠OS 1.0：三榜第一，灵渠OS年底开源并捐给开放原子基金会（10/29）",
+    "OpenAI 重构 Model Spec：改为围绕忠实人类意图、减少伤害、诚实、人的自主性、关怀五条价值（10/29）",
+    "Google 把 Computer Use 转正：Gemini API 里让模型直接操作电脑的工具正式 GA（10/30）",
+    "OpenAI 社区安全报告：Q3 向执法机关转介 200+ 次，并收紧未成年人枪支相关内容（10/30）",
+    "腾讯官宣混元 Hy4 / Hy4 flash 即将发布：强化长程任务，首次引入视觉理解（10/29）"
+  ],
+  "tags": ["AI日报", "大模型", "人工智能", "AI工具", "科技"],
+  "body_extra": "这五条里，你最想先试哪个？评论区聊聊 👇",
+  "sources": [
+    {"name": "智元创新日官方新闻稿(美通社)", "url": "https://www.prnewswire.com/apac/zh/news-releases/worken---302923463.html"},
+    {"name": "OpenAI(Model Spec 更新)", "url": "https://openai.com/index/updated-model-spec/"},
+    {"name": "Gemini API 版本说明", "url": "https://ai.google.dev/gemini-api/docs/changelog"},
+    {"name": "OpenAI(社区安全报告)", "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens/"},
+    {"name": "快科技(腾讯混元Hy4)", "url": "https://news.mydrivers.com/1/1161/1161485.htm"}
+  ]
+}
