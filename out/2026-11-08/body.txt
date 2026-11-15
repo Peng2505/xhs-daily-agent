@@ -1,0 +1,15 @@
+标题（13字）: 11月8日AI速览：5件事
+
+蚂蚁 Ling-3.2-flash：560B 参数原生多模态，100 万 token 上下文，前两周免费用（11/5）
+
+Kimi K3.1 Pro 权重开源：2.8T MoE 激活 104B，AA 智能指数 46 居开源第一（11/5）
+
+OpenAI GPT-6 Cyber：自主挖出 948 个 Linux 提权漏洞 + 81 个 Firefox 高危漏洞（11/5）
+
+Thinking Machines Inkling 2 Small：594B/17B 激活，AA 31 分，下周按 Apache 2.0 开源（11/5）
+
+Ricursive Ripple-65B：65B 稠密模型 Apache 2.0，Terminal-Bench 2.1 得 80.52 分（11/4）
+
+来源：TechNode https://technode.com/2026/11/06/ant-launches-ling-3-2-flash-multimodal-model-with-million-token-context/ / Hugging Face https://huggingface.co/moonshotai/Kimi-K3.1-Pro / OpenAI https://openai.com/index/introducing-gpt-6-cyber/ / Thinking Machines Lab https://thinkingmachines.ai/news/inkling-2-small/ / VentureBeat https://venturebeat.com/technology/ex-googlers-new-apache-2-0-model-ripple-65b-preview-claims-the-u-s-open-coding-lead-on-two-major-benchmarks
+
+#AI日报# #大模型# #人工智能# #AI工具# #科技#

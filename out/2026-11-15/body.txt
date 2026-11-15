@@ -1,0 +1,17 @@
+标题（14字）: 11月15日AI速览：5件事
+
+llama.cpp 与底层 ggml 库版本升到 1.0.0：支持超 150 种模型架构，明确语义化版本与 API/ABI 破坏性变更边界（11/13）
+
+Cloudflare 开源为 AI 智能体打造的浏览器 Kitesurf，官方称资源消耗低于 Chromium，今年 8 月已推出（11/13）
+
+Perplexity 向 Max 订阅用户开放 Mac 版 Teammates：可组「AI 队友」跑办公任务，此前仅 iOS 与网页端（11/14）
+
+Meta 个人智能体 Muse 上线代打电话：付费订阅后可让它代联系美国商家、处理待办琐事（11/14）
+
+清华发布单细胞蛋白组基础模型 ProtCell：3.8 亿细胞、98 个数据集预训练，摩尔线程 S5000 复现仅差 0.2%（11/14）
+
+主线：这一天没有新旗舰模型，但智能体的「手脚」在补齐——本地能跑、浏览器专供、电话能打、科研能复现。
+
+来源：IT之家 https://www.ithome.com/1/027/019.htm / IT之家 https://www.ithome.com/1/027/197.htm / IT之家 https://www.ithome.com/1/027/050.htm / IT之家 https://www.ithome.com/1/027/238.htm / IT之家 https://www.ithome.com/1/027/148.htm
+
+#AI日报# #大模型# #人工智能# #AI工具# #科技#

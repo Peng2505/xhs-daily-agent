@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-14",
+  "title": "11月14日AI速览：5件事",
+  "hook": "Agent 支付 / 端侧千亿 / 语音会唱 / 数学形式化，90秒看完",
+  "handle": "",
+  "bullets": [
+    "OpenAI 上线 ChatGPT Wallet：Agent 可代付，每笔购买需 Face ID 确认，只下发一次性支付令牌、不暴露卡号（11/13）",
+    "腾讯混元发布实时语音模型 Hy Realtime：新增 Agentic 工具调用与唱歌，已在元宝语音通话、腾讯客服上线（11/13）",
+    "无界方舟开源 Edge0-145B：1450 亿参数、4bit 原生训练的稀疏 MoE，单张 RTX 5090 跑 98 tok/s，权重已上 HF（11/13）",
+    "一人 + Claude 用 19.4 万行 Lean 4 形式化「三元哥德巴赫猜想」，全库零 sorry，还揪出 2013 原证明的错误（11/13）",
+    "2026 世界中文大会发布「语飞」国际中文教育垂直大模型，面向全球中文学习者、教师与机构提供智能服务（11/13）"
+  ],
+  "tags": [
+    "AI日报",
+    "大模型",
+    "人工智能",
+    "AI工具",
+    "科技"
+  ],
+  "body_extra": "主线：这一天的看点从「模型更强」转向「Agent 真的能办事」——能付钱、能开口调用工具、能在本地跑千亿参数，也能替数学家补证明。",
+  "sources": [
+    {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet/"
+    },
+    {
+      "name": "IT之家（网易转载）",
+      "url": "https://www.163.com/dy/article/LBKM8N490511B8LM.html"
+    },
+    {
+      "name": "Hugging Face / 极客公园",
+      "url": "https://huggingface.co/Edge0/Edge0-145B-NVFP4"
+    },
+    {
+      "name": "36氪／新智元",
+      "url": "https://36kr.com/p/4067629942707072"
+    },
+    {
+      "name": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731714.shtml"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+标题（14字）: 11月11日AI速览：5件事
+
+Google 开放 Gemini 4 Carbon：$2/$10 首发价与 Argon 同价，CursorBench 4.0 等三项第一，成本低一半（11/10）
+
+Anthropic 上三件办公套件：Sheets 做表格、Whiteboards 把讨论转成带排期和负责人的看板，Meetings 还没上线（11/10）
+
+美团开源 LongCat-2.5：1.6T 总参数、每 token 激活约 48B、100 万上下文，MIT 协议可商用（11/10）
+
+DeepMind AlphaProof Code 4 周生成 600 万行 Lean，形式化证明 Signal 协议编译后代码的关键安全属性（11/10）
+
+Adobe 让第三方 AI Agent 直接改 Photoshop/Premiere 源文件，保留图层与序列，2027 年初私有 beta（11/10）
+
+主线是「往工作里钻」：模型进表格、进会议、进源文件；LongCat-2.5 连国产卡部署经验一起开源。
+
+来源：Google https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/ / Claude https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors / 美团技术团队 https://tech.meituan.com/2026/11/10/Meituan-LongCat-2.5-Open-Source.html / Google DeepMind https://deepmind.google/blog/introducing-alphaproof-code/ / PYMNTS https://pymnts.com/news/artificial-intelligence/2026/adobe-opens-photoshop-and-premiere-to-third-party-ai-agents
+
+#AI日报# #大模型# #人工智能# #AI工具# #科技#

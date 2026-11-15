@@ -1,0 +1,18 @@
+{
+  "title": "11月5日AI速览：5件事",
+  "title_placeholder": "填写标题",
+  "tab": "上传图文",
+  "publish": "发布",
+  "draft": "暂存离开",
+  "published_ok": "发布成功",
+  "saved_ok": "保存成功",
+  "paragraphs": [
+    "OpenAI 发布 Images 2.6：生成速度提升 50%，首次支持 GIF 动图，API 分 Flare 与 Sunburst 两档（11/4）",
+    "Kimi K3.1 Pro 开放权重上线：2.8T 总参、104B 激活，上下文 100 万 token，MXFP4 量化（11/4）",
+    "Anthropic 开源 FlashProve：用密码学证明一段输出确实来自宣称的那款模型（11/3）",
+    "Meta 收购 AI 编程公司 Conductor：多 Agent 并行跑同一项目的不同模块，云服务 11/20 关停（11/4）",
+    "Uber 财报：万圣节周 3.2 亿单中，AI Agent 只下了 4 单打车、500 单外卖（11/4）",
+    "来源：OpenAI https://openai.com/index/introducing-images-2-6/ / Hugging Face https://huggingface.co/moonshotai/Kimi-K3.1-Pro / Anthropic https://www.anthropic.com/research/provable-inference / TechCrunch https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/ / TechCrunch https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+    "#AI日报# #大模型# #人工智能# #AI工具# #科技#"
+  ]
+}

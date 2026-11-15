@@ -1,0 +1,17 @@
+标题（13字）: 11月9日AI速览：5件事
+
+OpenAI 发 GPT-6 Cyber：ExploitGym 48.5%，已挖出 948 个 Linux 提权链和 81 个 Firefox 高危漏洞，仅限审核客户（11/5）
+
+Images 2.6 拆成 Flare（快）与 Sunburst（稳）：出图快 50%，低质量 6 秒，新增 GIF 和 SVG 导出（11/4）
+
+Thinking Machines 发 Inkling 2 Small：594B 总参、17B 激活 MoE，智能指数 31（前代 13），权重暂未开放（11/6）
+
+Google ADK 2.14.0 把 A2A 协议、执行沙箱和核心运行时转为 stable，并接入 Microsoft Teams（11/4）
+
+Claude Code 2.1.319：MCP 任务调用默认转后台，新增 denyInsteadOfPrompting，无人值守不再卡权限弹窗（11/6）
+
+本周主线是「模型往垂直和安全方向切」：通用能力涨得慢了，专用模型和框架的工程化在提速。
+
+来源：OpenAI https://openai.com/index/introducing-gpt-6-cyber/ / OpenAI https://openai.com/index/introducing-images-2-6/ / The Decoder https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/ / GitHub https://github.com/google/adk-python/releases/tag/v2.14.0 / Releasebot https://releasebot.io/updates/anthropic/claude-code
+
+#AI日报# #大模型# #人工智能# #AI工具# #科技#

@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-07",
+  "title": "11月7日AI速览：5件事",
+  "hook": "视频 / 机器人 / Agent / 资本，90秒看完",
+  "handle": "",
+  "bullets": [
+    "Google Gemini Omni 1.2 Flash 正式可用：单段视频最长 15 秒，支持对话式改片，输出降价 30%（11/5）",
+    "Hugging Face LeRobot v0.7.0：Hub 上近 300TB 机器人数据免下载直接训练，新增 4 个世界动作模型（11/5）",
+    "Meta 上线 Spaces：和 Muse 智能体按项目分话题协作，一句话就能生成追踪表或项目看板（11/6）",
+    "OpenAI 据报再融 110 亿美元，估值 1.25 万亿美元，本轮融资尚未关闭（11/6）",
+    "Gemini Embedding 2 Preview 退役：请求自动转到 gemini-embedding-2，向量空间不变、无需重建索引（11/6）"
+  ],
+  "tags": ["AI日报", "大模型", "人工智能", "AI工具", "科技"],
+  "body_extra": "",
+  "sources": [
+    {"name": "Google Gemini API 更新日志", "url": "https://aistudio.google.com/docs/changelog"},
+    {"name": "Hugging Face LeRobot v0.7.0", "url": "https://huggingface.co/blog/lerobot/lerobot-release-v070"},
+    {"name": "TechCrunch", "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"},
+    {"name": "TechCrunch", "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"}
+  ]
+}

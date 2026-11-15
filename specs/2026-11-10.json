@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-10",
+  "title": "11月10日AI速览：5件事",
+  "hook": "前沿模型 / 端侧小模型 / TPU / 安全治理，90秒看完",
+  "handle": "",
+  "bullets": [
+    "Anthropic 发 Claude Fable 5.2 与 Mythos 5.2：$8/$40 每百万 token，开快模式再快 2.5 倍（11/9）",
+    "Meta 发最小款 Muse Ember：1M 上下文、512K 输出，$0.10/$0.50，同分数成本约三分之一（11/9）",
+    "Google 补两款 TPU：8tx 做机密推理、8i Max 攻超长上下文，一年内发四套系统（11/9）",
+    "OpenAI 上线 Control Room：决定掐断后 35 秒内停掉模型输出，覆盖全部研究推理负载（11/9）",
+    "Google 把 Maps Platform 接进 AI Studio：免信用卡、自动关联 Cloud 项目直接出预览（11/9）"
+  ],
+  "tags": ["AI日报", "大模型", "人工智能", "AI工具", "科技"],
+  "body_extra": "今天的主线是「分层」：一套最强模型往硬活上推，一套便宜模型专干智能体每天重复的小活，硬件和安全治理同步补齐。",
+  "sources": [
+    {"name": "Anthropic", "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"},
+    {"name": "Meta AI", "url": "https://research.meta.ai/blog/muse-ember"},
+    {"name": "Google Cloud Blog", "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"},
+    {"name": "OpenAI", "url": "https://openai.com/index/control-room/"},
+    {"name": "Google Blog", "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/"}
+  ]
+}

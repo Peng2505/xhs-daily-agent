@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-03",
+  "title": "11/3 AI速览：5件事",
+  "hook": "评测 / 工程 / 退役 / 计费 / 机器人",
+  "handle": "",
+  "bullets": [
+    "OpenAI 发布 LifeVal 评测：先问 3995 人挑出「过日子」真需求，再看 AI 能不能把事办完（11/2）",
+    "OpenAI 自研 Git 后端 Pando 全量接管 monorepo：推送中位延迟降近 5 倍，每天分发近 1PB 代码（11/2）",
+    "Gemini 2.5 Pro / 2.5 Flash 正式退役，12 月 1 日起请求自动转到 3.8 Flash / 3.5 Flash-Lite（11/2）",
+    "DeepSeek 网页搜索与抓取 API 开始收费：Search、Fetch 各 5 元 / 1000 次成功请求（11/1 0 点起）",
+    "智元 6 台精灵 G2 进便利店上 24 小时班：迎宾、做咖啡、补货全程直播，跑 GO-3 + Genie Master（11/2）"
+  ],
+  "tags": ["AI日报", "大模型", "人工智能", "AI工具", "科技"],
+  "body_extra": "",
+  "sources": [
+    {"name": "OpenAI (LifeVal)", "url": "https://openai.com/index/lifeval/"},
+    {"name": "OpenAI (Scaling Git / Pando)", "url": "https://openai.com/index/scaling-git-at-openai/"},
+    {"name": "Gemini API Release notes", "url": "https://ai.google.dev/gemini-api/docs/changelog"},
+    {"name": "DeepSeek API Docs (价格)", "url": "https://api-docs.deepseek.com/zh-cn/quick_start/pricing"},
+    {"name": "界面新闻 (智元 24 小时)", "url": "https://www.163.com/dy/article/LANKG6R20534A4SC.html"}
+  ]
+}

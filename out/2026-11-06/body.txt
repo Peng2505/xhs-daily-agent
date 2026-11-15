@@ -1,0 +1,15 @@
+标题（13字）: 11月6日AI速览：5件事
+
+OpenAI 发布 GPT-6 Cyber：ExploitGym 得分 48.5%（前代 32.1%），首次被自家框架评为「Critical」网络安全等级（11/5）
+
+乌镇峰会闭幕：首次发布《携手构建全球开放人工智能行动倡议》共 18 条，博览会展示 1000 余项新技术（11/5）
+
+Thinking Machines 发 Inkling 2 Small：594B 总参 17B 激活，智能指数 31 追平 Gemini 3.8 Flash（11/5）
+
+BOSS 直聘旗下南北阁开源 Nanbeige4.3-33B：33B 稠密模型、524K 上下文，指数 20 与 Qwen3.8 27B 持平（11/5）
+
+OPPO 发端网智能体意图通信白皮书：Find N6 实测游戏时延 423ms 降至 43ms，方案已进 3GPP 6G 报告（11/5）
+
+来源：OpenAI https://openai.com/index/introducing-gpt-6-cyber/ / 新华社 http://zj.xinhuanet.com/20261105/4c5a49fdde0d4ebb95624358b59eb730/c.html / Artificial Analysis https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it / Artificial Analysis https://artificialanalysis.ai/articles/nanbeige-has-released-nanbeige4-3-33b-scoring-20-on-the-intelligence-index / OPPO https://www.oppo.com/cn/newsroom/press/550/
+
+#AI日报# #大模型# #人工智能# #AI工具# #科技#

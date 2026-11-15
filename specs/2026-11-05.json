@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-05",
+  "title": "11月5日AI速览：5件事",
+  "hook": "图像生成 / 开源权重 / 可验证推理，90秒看完",
+  "handle": "",
+  "bullets": [
+    "OpenAI 发布 Images 2.6：生成速度提升 50%，首次支持 GIF 动图，API 分 Flare 与 Sunburst 两档（11/4）",
+    "Kimi K3.1 Pro 开放权重上线：2.8T 总参、104B 激活，上下文 100 万 token，MXFP4 量化（11/4）",
+    "Anthropic 开源 FlashProve：用密码学证明一段输出确实来自宣称的那款模型（11/3）",
+    "Meta 收购 AI 编程公司 Conductor：多 Agent 并行跑同一项目的不同模块，云服务 11/20 关停（11/4）",
+    "Uber 财报：万圣节周 3.2 亿单中，AI Agent 只下了 4 单打车、500 单外卖（11/4）"
+  ],
+  "tags": ["AI日报", "大模型", "人工智能", "AI工具", "科技"],
+  "body_extra": "",
+  "sources": [
+    {"name": "OpenAI", "url": "https://openai.com/index/introducing-images-2-6/"},
+    {"name": "Hugging Face", "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"},
+    {"name": "Anthropic", "url": "https://www.anthropic.com/research/provable-inference"},
+    {"name": "TechCrunch", "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"},
+    {"name": "TechCrunch", "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"}
+  ]
+}

@@ -1,0 +1,15 @@
+标题（13字）: 11/4 AI速览：5件事
+
+MIT 让 GPT-6 Astra 直接改权重：只动 Qwen3.5-0.8B 的 0.016% 参数，MATH-500 从 7.9% 升到 48.1%，全程不训练（11/2）
+
+奥特曼：攻下纳维-斯托克斯千禧难题的是 1 万个 Agent，背后是尚未发布的下一代 GPT，连跑约 4 天、没有层级（11/2）
+
+百度首次披露全模态世界模型 Apollo World：虚拟路测日行十万公里，约等于真车测三年，已用于萝卜快跑 L4 验证（11/3）
+
+Netflix 上线 AI Discover：电视端新增一个标签页，按「今晚想要什么感觉」找片，先在美国小范围测试（11/3）
+
+北大孙仲联合 IBM 苏黎世给「现代模拟计算」立定义：用忆阻器电导直接做矩阵乘法，GPU 迭代多次的事一步做完（11/3）
+
+来源：MIT CSAIL (Weight-Space Programming) https://rikiyat.github.io/blog/weight-space-programming/ / 机器之心 (奥特曼/ADIPEC) https://m.36kr.com/p/4053239918400384 / 香港商报 (百度 Apollo World) http://www.hkcd.com/hkcdweb/content/2026/11/03/content_8783440.html / Netflix (AI Discover) https://about.netflix.com/en/news/introducing-ai-discover / 量子位 (现代模拟计算综述) https://www.qbitai.com/2026/11/507367.html
+
+#AI日报# #大模型# #人工智能# #AI工具# #科技#

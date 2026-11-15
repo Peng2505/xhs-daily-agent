@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-12",
+  "title": "11月12日AI速览：5件事",
+  "hook": "决策 API / 基因模型 / 字节 Agent / 开源 / 双十一实测，90秒看完",
+  "handle": "",
+  "bullets": [
+    "Google 上线 Gemini Decisions API：单次可判 1000 个是非/选择题，跨文本图像音视频，$0.10/百万输入 token（11/11）",
+    "DeepMind 发布 AlphaGenome 2：「DNA+细胞类型」条件模型，1 亿+单细胞图谱训练，多找出近一倍变异（11/11）",
+    "字节被曝数周内推 Muse 式 AI 助手；张一鸣称追上 OpenAI／Anthropic 至少要到 2029–2030 年（11/11）",
+    "AWS 开源 AWS Emulator：本地模拟整套 AWS API，代码 100% 由数千个自家 AI Agent 写并维护，CC0 协议（11/11）",
+    "双十一 AI 卖货：抖音 10 月约 5% 成交来自聊天机器人链接，滋补等品类超 20%；10/7–10/31 销售额 +2.4%（11/11）"
+  ],
+  "tags": [
+    "AI日报",
+    "大模型",
+    "人工智能",
+    "AI工具",
+    "科技"
+  ],
+  "body_extra": "主线：模型不只生成文字，还打分、定位细胞、顺着链接下单。",
+  "sources": [
+    {
+      "name": "Google",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+    },
+    {
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+    },
+    {
+      "name": "Engadget（引 Bloomberg）",
+      "url": "https://www.engadget.com/2314064/bytedance-is-reporting-working-on-its-own-ai-agent/"
+    },
+    {
+      "name": "About Amazon",
+      "url": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/chinas-singles-day-shopping-festival-puts-ai-selling-power-test-2026-11-11/"
+    }
+  ]
+}

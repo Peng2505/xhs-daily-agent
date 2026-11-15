@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-13",
+  "title": "11月13日AI速览：5件事",
+  "hook": "专用模型 / 开源语音 / 文心双发 / AGI芯片，90秒看完",
+  "handle": "",
+  "bullets": [
+    "Google 发布 Gemini 4 Hydrogen（GA）：新增第四档 xhigh 思考级别，$1.5/$7.5 每百万 token，默认接管 Antigravity Agent（11/12）",
+    "Perplexity 开源决策模型 Decider v1.3 与 Flash v1.3：Apache 2.0，新增 locate 原文抽取，可做路由、打分、审核（11/12）",
+    "Salesforce 开源语音模型 SOV-Transcribe-1：4B 激活/26B 总参，WER 2.28%，非流式转写开源第一（11/12）",
+    "百度世界 2026 发布文心闪电（深度思考）与文心一镜（微表情）两款应用模型，已上千帆开放 API（11/12）",
+    "朱松纯发起的通芯智能完成数亿元种子＋天使轮，首款 AGI 推理芯片 12 月初做 FPGA 原型验证（11/12）"
+  ],
+  "tags": [
+    "AI日报",
+    "大模型",
+    "人工智能",
+    "AI工具",
+    "科技"
+  ],
+  "body_extra": "主线：通用大模型继续降价，专用模型（决策、语音、微表情）开始单独卖。",
+  "sources": [
+    {
+      "name": "Google Gemini API Release notes",
+      "url": "https://ai.google.dev/gemini-api/docs/changelog"
+    },
+    {
+      "name": "Perplexity Research",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider"
+    },
+    {
+      "name": "Hugging Face (Salesforce)",
+      "url": "https://huggingface.co/blog/salesforce-sovereign-intelligence/sov-transcribe-1"
+    },
+    {
+      "name": "每日经济新闻／东方财富",
+      "url": "https://wap.eastmoney.com/a/202611123929330190.html"
+    },
+    {
+      "name": "IT之家",
+      "url": "https://c.m.163.com/news/a/LBHQ2RDU0511B8LM.html"
+    }
+  ]
+}
